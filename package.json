@@ -1,0 +1,18 @@
+{
+  "name": "screepsvt-40",
+  "version": "1.0.0",
+  "description": "My semi-automatic kit for MMO game screeps.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Skida12138",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^13.1.6",
+    "@types/screeps": "^3.0.0",
+    "ts-loader": "^6.2.1",
+    "typescript": "^3.7.4",
+    "webpack": "^4.41.5"
+  }
+}
